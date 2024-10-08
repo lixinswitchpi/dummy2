@@ -9,6 +9,8 @@ Fully BLDC actuator designed version.
 - support kinematics dynamics algorithm
 - Fast, flexible, precise, and smooth movement
 
+[demo video](https://www.bilibili.com/video/BV1RxxCeNEB7/?vd_source=07b586148810bad00b3ab53a6553d1f6 "demo video")
+
 # Dummy2 3d model reference
 ![rdrive control board](images/dummy2.jpg)
 ![rdrive control board](images/dummy2_standup.jpg)
